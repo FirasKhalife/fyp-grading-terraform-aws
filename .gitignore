@@ -1,0 +1,5 @@
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+key_pair
+key_pair.pub
