@@ -6,7 +6,7 @@ This project is a Terraform configuration for provisioning an AWS resources usin
 
 Before you begin, ensure you have the following installed:
 
-- [Terraform](https://www.terraform.io/downloads.html) (version X.X.X)
+- [Terraform](https://www.terraform.io/downloads.html)
 - [AWS CLI](https://aws.amazon.com/cli/)
 - An AWS account with proper permissions
 
